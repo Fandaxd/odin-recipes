@@ -1,0 +1,35 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+
+}
+
+body {
+    width: 800px;
+    margin: auto;
+}
+
+.gordon {
+    height: 60%;
+    width: 60%;
+}
+
+.food {
+    height: 30%;
+    width: 50%;
+}
+
+#mainPageGordon {
+    height: 100%;
+    width: 100%;
+}
+
+div.trim {
+    max-height: 400px;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+li {
+    text-align: left;
+}
